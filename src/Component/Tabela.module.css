@@ -1,0 +1,33 @@
+.containerBody {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.containerPrincipal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: blueviolet;
+  /* max-width: 1150px; */
+  padding: 10px;
+}
+.column1 {
+  background-color: azure;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1050px;
+
+}
+
+.column2 {
+  background-color: azure;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1050px;
+}
+.teste {
+  display: flex;
+}

@@ -1,8 +1,8 @@
-const tabela = [
+export const tabela = [
   {
     numeroAtomico: 1,
     simbolo: 'H',
-    elemento: 'hidrogenio',
+    elemento: 'Hidrogenio',
     massaAtomico: '1,008',
     fusao: '-259,14',
     ebulicao: '-252,87',
@@ -10,7 +10,7 @@ const tabela = [
   {
     numeroAtomico: 2,
     simbolo: 'He',
-    elemento: 'helio',
+    elemento: 'Helio',
     massaAtomico: '4,0026',
     fusao: '-272,2',
     ebulicao: '-268,9',
@@ -18,7 +18,7 @@ const tabela = [
   {
     numeroAtomico: 3,
     simbolo: 'Li',
-    elemento: 'helio',
+    elemento: 'Lítio',
     massaAtomico: '6,941',
     fusao: '180,5',
     ebulicao: '1342,0',
